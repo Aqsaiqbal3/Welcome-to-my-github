@@ -1,2 +1,2 @@
 # Welcome-to-my-github
-this is my repository
+This is my repository
